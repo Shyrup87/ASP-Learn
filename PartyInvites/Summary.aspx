@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Title is Here</title>
+    <title>Сосать вам всем хер</title>
     <link rel="stylesheet" href="PartyStyles.css" />
 </head>
 <body>
